@@ -1,0 +1,21 @@
+body {
+    background-color: none;
+}
+/*.img-fluid {
+    width: 25%;
+    height: auto;
+}
+.photocon1 {
+    border: 2px solid black;
+}
+.photocon2 {
+    border: 2px solid black;
+}*/
+.profilep {
+    border-radius: 10px;
+    width: 30%;
+    height: auto;
+}
+.ldivider {
+    border: 1px solid black;
+}
